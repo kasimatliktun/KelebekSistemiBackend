@@ -6,5 +6,10 @@
 
 ## 📚 Kullandığım Teknolojiler
 
+#### Projemi .Net Core ile hazırladım. 
+#### Burada sorgularda Expression yapısını kullandım. 
+#### IoC aracı olarak da Autofact i kullandım. Bu proje vesilesiyle IoC nin projlerde ne kadar önemli olduğunu daha iyi kavradım.
+#### Doğrulamalar için ise FluentValidation kullandım.
+#### MS-Sql veri tabanı kullandım.
 
 
