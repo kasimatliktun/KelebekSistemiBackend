@@ -1,21 +1,11 @@
-# KelebekSistemiBackend
-Okullarda yazılı yaparken öğrencileri dağıtan kelebek sistemi
 
+## 📌 KelebekSistemiBackend
 
+### Okullarda yazılı yaparken öğrencileri farklı sınıflara dağıtan kelebek sistemi
+#### Bu backend çalışmamı C# programlama dili ile yazdım. Kısaca kelebek sistemi, okullarda yapılan yazılılarda kopya çekilmesini azaltmak için kullanılan bir sistemdir. Bu sistem, yazılıya girecek olan öğrencilerin herbirini farklı sınıf seviyesindeki öğrencilerle aynı sınıfta sınav yapmasını sağlamaktadır. Böylece öğrenci, kendi arkadaşlarının dışında, başka sınıflardaki öğrencilerden kopya çekmesi ya da yardımlaşması engellenmiş olmaktadır. Yapılan sınavlarda öğrenciler her sınavda başka bir sınıf ve sırada oturmaktadır.
 
-### Heyy Lady and Gentlemen 👋
+## 📚 Kullandığım Teknolojiler
 
-
-## 📌 GitHub Stats And Top Languages
-
-<p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=UtkuGlsvn&show_icons=true&count_private=true&hide=contribs,issues" alt="UtkuGlsvn's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkuGlsvn&layout=compact&hide=html,css" alt="My Top Langs" />
-</p>
-
-
-## 📚 My Medium Account
-[@utkuglsvn ](https://medium.com/@utkuglsvn)
 
 
 ## 🌐 My Github io
